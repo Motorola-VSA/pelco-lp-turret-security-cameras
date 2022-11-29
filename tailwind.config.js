@@ -10,8 +10,8 @@ module.exports = {
       xl: '1440px',
     },
     backgroundImage: {
-      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/turret-security-cameras/2.%20Turret%20Camera%20Desktop%20v2.jpg')",
-      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/turret-security-cameras/2.%20Turret%20Camera%20Mobile%20v2.jpg')"
+      'marquee-desktop': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/turret-security-cameras/2.%20Turret%20Camera%20Test%20Desktop%20v2.jpg')",
+      'marquee-mobile': "url('https://3396890.fs1.hubspotusercontent-na1.net/hubfs/3396890/Pelco/Landing%20Pages/turret-security-cameras/2.%20Turret%20Camera%20Test%20Mobile%20v2.jpg')"
     },
     extend: {
       colors: {
